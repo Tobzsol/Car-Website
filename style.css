@@ -22,7 +22,7 @@ html{
     overflow-x: hidden;
     scroll-padding-top: 7rem;
     scroll-behavior: smooth;
-    background-image: url(./Images/FRIDAY\ HEV\ 2.jpeg);
+    background-image: url(./Images/S7\ 1.jpeg);
     background-size: contain;
 }
 .btn{
@@ -359,7 +359,7 @@ header .navbar a:hover{
     line-height: 1.8;
     padding: 1rem 0;
     font-size: 2rem;
-    color: #444;
+    color: #000;
 }
 .contact .row{
     display: flex;
